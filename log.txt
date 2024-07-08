@@ -1,0 +1,482 @@
+UserID: 879527917 | Time: 2024-07-03 16:58:47.868294 | Command: /attack | Target: 4.213.68.12 | Port: 27240 | Time: 180
+Username: @RISHUNAWAB
+Target: 4.213.68.12
+Port: 27240
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 16:59:40.585305 | Command: /attack | Target: 20.204.20.204 | Port: 10826 | Time: 180
+Username: @Pro_lege9d
+Target: 20.204.20.204
+Port: 10826
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 17:02:27.335869 | Command: /attack | Target: 20.204.20.204 | Port: 10826 | Time: 180
+Username: @Pro_lege9d
+Target: 20.204.20.204
+Port: 10826
+Time: 180
+
+UserID: 879527917 | Time: 2024-07-03 17:02:44.517527 | Command: /attack | Target: 4.213.68.12 | Port: 27240 | Time: 180
+Username: @RISHUNAWAB
+Target: 4.213.68.12
+Port: 27240
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 17:06:56.258261 | Command: /attack | Target: 20.204.20.204 | Port: 10826 | Time: 180
+Username: @Pro_lege9d
+Target: 20.204.20.204
+Port: 10826
+Time: 180
+
+UserID: 879527917 | Time: 2024-07-03 17:06:58.047334 | Command: /attack | Target: 4.213.68.12 | Port: 27240 | Time: 180
+Username: @RISHUNAWAB
+Target: 4.213.68.12
+Port: 27240
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-03 17:13:51.455849 | Command: /attack | Target: 20.204.88.100 | Port: 25035 | Time: 180
+Username: @FFCxGAMA
+Target: 20.204.88.100
+Port: 25035
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-03 17:16:48.595065 | Command: /attack | Target: 20.198.111.205 | Port: 19846 | Time: 180
+Username: @FFCxGAMA
+Target: 20.198.111.205
+Port: 19846
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 17:23:58.182547 | Command: /attack | Target: 20.204.18.38 | Port: 12321 | Time: 300
+Username: @Pro_lege9d
+Target: 20.204.18.38
+Port: 12321
+Time: 300
+
+UserID: 6572028150 | Time: 2024-07-03 17:25:16.605549 | Command: /attack | Target: 20.204.191.150 | Port: 10143 | Time: 180
+Username: @ANKITKING696
+Target: 20.204.191.150
+Port: 10143
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 17:28:28.277373 | Command: /attack | Target: 20.204.179.88 | Port: 26349 | Time: 180
+Username: @Pro_lege9d
+Target: 20.204.179.88
+Port: 26349
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-03 17:28:50.325667 | Command: /attack | Target: 20.235.51.162 | Port: 10988 | Time: 180
+Username: @FFCxGAMA
+Target: 20.235.51.162
+Port: 10988
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 17:31:32.730015 | Command: /attack | Target: 20.204.179.88 | Port: 26349 | Time: 180
+Username: @Pro_lege9d
+Target: 20.204.179.88
+Port: 26349
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-03 17:33:50.037595 | Command: /attack | Target: 20.204.39.245 | Port: 16686 | Time: 180
+UserID: 6572028150 | Time: 2024-07-03 17:33:50.037516 | Command: /attack | Target: 4.213.68.228 | Port: 24820 | Time: 180
+Username: @FFCxGAMA
+Target: 20.204.39.245
+Port: 16686
+Time: 180
+
+Username: @ANKITKING696
+Target: 4.213.68.228
+Port: 24820
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-03 17:39:13.351200 | Command: /attack | Target: 4.213.65.132 | Port: 19908 | Time: 180
+Username: @FFCxGAMA
+Target: 4.213.65.132
+Port: 19908
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 17:40:32.868842 | Command: /attack | Target: 20.204.190.108 | Port: 10196 | Time: 200
+Username: @Pro_lege9d
+Target: 20.204.190.108
+Port: 10196
+Time: 200
+
+UserID: 5440248350 | Time: 2024-07-03 17:43:15.102618 | Command: /attack | Target: 4.213.65.132 | Port: 19908 | Time: 180
+Username: @FFCxGAMA
+Target: 4.213.65.132
+Port: 19908
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 18:09:49.325119 | Command: /attack | Target: 20.219.6.192 | Port: 15048 | Time: 180
+Username: @Pro_lege9d
+Target: 20.219.6.192
+Port: 15048
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 18:37:08.568203 | Command: /attack | Target: 20.235.88.177 | Port: 15436 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.88.177
+Port: 15436
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 18:37:09.351213 | Command: /attack | Target: 20.235.88.177 | Port: 15436 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.88.177
+Port: 15436
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 18:40:10.641829 | Command: /attack | Target: 20.235.88.177 | Port: 15436 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.88.177
+Port: 15436
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 18:48:03.628461 | Command: /attack | Target: 20.235.88.177 | Port: 15436 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.88.177
+Port: 15436
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-03 21:27:13.163658 | Command: /attack | Target: 20.198.104.241 | Port: 23602 | Time: 180
+Username: @Pro_lege9d
+Target: 20.198.104.241
+Port: 23602
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-04 05:06:01.700143 | Command: /attack | Target: 4.213.65.132 | Port: 19908 | Time: 180
+Username: @FFCxGAMA
+Target: 4.213.65.132
+Port: 19908
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-04 05:41:50.378592 | Command: /attack | Target: 4.213.65.132 | Port: 19908 | Time: 240
+Username: @FFCxGAMA
+Target: 4.213.65.132
+Port: 19908
+Time: 240
+
+UserID: 5440248350 | Time: 2024-07-04 06:01:17.670020 | Command: /attack | Target: 20.235.95.37 | Port: 26104 | Time: 240
+Username: @FFCxGAMA
+Target: 20.235.95.37
+Port: 26104
+Time: 240
+
+UserID: 5440248350 | Time: 2024-07-04 06:28:59.505205 | Command: /attack | Target: 20.204.18.99 | Port: 10099 | Time: 180
+Username: @FFCxGAMA
+Target: 20.204.18.99
+Port: 10099
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-04 06:39:14.297800 | Command: /attack | Target: 20.204.18.99 | Port: 10099 | Time: 180
+Username: @FFCxGAMA
+Target: 20.204.18.99
+Port: 10099
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-04 08:06:55.833231 | Command: /attack | Target: 20.235.88.114 | Port: 20722 | Time: 180
+Username: @FFCxGAMA
+Target: 20.235.88.114
+Port: 20722
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-04 09:25:02.685132 | Command: /attack | Target: 20.204.88.3 | Port: 28379 | Time: 240
+UserID: 5440248350 | Time: 2024-07-04 09:25:02.686433 | Command: /attack | Target: 20.204.88.3 | Port: 28379 | Time: 240
+Username: @FFCxGAMA
+Target: 20.204.88.3
+Port: 28379
+Time: 240
+
+Username: @FFCxGAMA
+Target: 20.204.88.3
+Port: 28379
+Time: 240
+
+UserID: 1317362624 | Time: 2024-07-04 09:41:55.381572 | Command: /attack | Target: 20.219.163.69 | Port: 24286 | Time: 180
+Username: @Pro_lege9d
+Target: 20.219.163.69
+Port: 24286
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-04 10:02:59.689477 | Command: /attack | Target: 20.204.39.91 | Port: 24895 | Time: 180
+Username: @Pro_lege9d
+Target: 20.204.39.91
+Port: 24895
+Time: 180
+
+UserID: 5631558065 | Time: 2024-07-04 10:12:01.791485 | Command: /attack | Target: 20.235.9.154 | Port: 27156 | Time: 180
+Username: @ZEUX_OP8
+Target: 20.235.9.154
+Port: 27156
+Time: 180
+
+UserID: 5631558065 | Time: 2024-07-04 10:17:18.375604 | Command: /attack | Target: 52.172.28.46 | Port: 12444 | Time: 180
+Username: @ZEUX_OP8
+Target: 52.172.28.46
+Port: 12444
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-04 10:24:13.824307 | Command: /attack | Target: 20.219.167.192 | Port: 22328 | Time: 180
+Username: @Pro_lege9d
+Target: 20.219.167.192
+Port: 22328
+Time: 180
+
+UserID: 5631558065 | Time: 2024-07-04 10:24:46.741935 | Command: /attack | Target: 52.140.37.85 | Port: 22576 | Time: 260
+Username: @ZEUX_OP8
+Target: 52.140.37.85
+Port: 22576
+Time: 260
+
+UserID: 1317362624 | Time: 2024-07-04 10:26:10.071962 | Command: /attack | Target: 20.219.167.192 | Port: 22328 | Time: 180
+Username: @Pro_lege9d
+Target: 20.219.167.192
+Port: 22328
+Time: 180
+
+UserID: 1965919006 | Time: 2024-07-04 13:30:49.328488 | Command: /attack | Target: 20.204.148.249 | Port: 23479 | Time: 180
+Username: @Kaluaaaa1
+Target: 20.204.148.249
+Port: 23479
+Time: 180
+
+UserID: 1965919006 | Time: 2024-07-04 13:39:28.618100 | Command: /attack | Target: 20.198.72.155 | Port: 16215 | Time: 180
+Username: @Kaluaaaa1
+Target: 20.198.72.155
+Port: 16215
+Time: 180
+
+UserID: 1965919006 | Time: 2024-07-04 13:47:39.378914 | Command: /attack | Target: 20.204.13.166 | Port: 10587 | Time: 180
+Username: @Kaluaaaa1
+Target: 20.204.13.166
+Port: 10587
+Time: 180
+
+UserID: 1965919006 | Time: 2024-07-04 13:56:54.184271 | Command: /attack | Target: 20.204.189.124 | Port: 10224 | Time: 180
+Username: @Kaluaaaa1
+Target: 20.204.189.124
+Port: 10224
+Time: 180
+
+UserID: 1965919006 | Time: 2024-07-04 14:20:03.472178 | Command: /attack | Target: 20.219.167.176 | Port: 20245 | Time: 240
+Username: @Kaluaaaa1
+Target: 20.219.167.176
+Port: 20245
+Time: 240
+
+UserID: 1965919006 | Time: 2024-07-04 14:44:44.789970 | Command: /attack | Target: 20.204.69.85 | Port: 14708 | Time: 240
+Username: @Kaluaaaa1
+Target: 20.204.69.85
+Port: 14708
+Time: 240
+
+UserID: 5440248350 | Time: 2024-07-04 16:21:55.031060 | Command: /attack | Target: 20.204.88.3 | Port: 28379 | Time: 240
+Username: @FFCxGAMA
+Target: 20.204.88.3
+Port: 28379
+Time: 240
+
+UserID: 1317362624 | Time: 2024-07-05 01:52:01.099504 | Command: /attack | Target: 4.213.64.79 | Port: 20413 | Time: 180
+Username: @Pro_lege9d
+Target: 4.213.64.79
+Port: 20413
+Time: 180
+
+UserID: 6512569115 | Time: 2024-07-05 01:52:04.666914 | Command: /attack | Target: 4.213.64.79 | Port: 20413 | Time: 180
+Username: @Jaatxcheat_xd
+Target: 4.213.64.79
+Port: 20413
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 02:00:13.295043 | Command: /attack | Target: 20.235.148.211 | Port: 14114 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.148.211
+Port: 14114
+Time: 180
+
+UserID: 6512569115 | Time: 2024-07-05 02:02:41.252932 | Command: /attack | Target: 20.198.77.6 | Port: 14570 | Time: 180
+Username: @Jaatxcheat_xd
+Target: 20.198.77.6
+Port: 14570
+Time: 180
+
+UserID: 5631558065 | Time: 2024-07-05 02:53:48.677203 | Command: /attack | Target: 20.204.176.246 | Port: 25359 | Time: 180
+Username: @ZEUX_OP8
+Target: 20.204.176.246
+Port: 25359
+Time: 180
+
+UserID: 1965919006 | Time: 2024-07-05 02:53:51.882533 | Command: /attack | Target: 20.235.95.78 | Port: 12055 | Time: 180
+Username: @Kaluaaaa1
+Target: 20.235.95.78
+Port: 12055
+Time: 180
+
+UserID: 1965919006 | Time: 2024-07-05 03:17:26.409102 | Command: /attack | Target: 20.204.191.218 | Port: 10199 | Time: 180
+UserID: 5631558065 | Time: 2024-07-05 03:22:27.890650 | Command: /attack | Target: 20.204.176.246 | Port: 25359 | Time: 180
+Username: @ZEUX_OP8
+Target: 20.204.176.246
+Port: 25359
+Time: 180
+
+UserID: 5631558065 | Time: 2024-07-05 04:30:47.367243 | Command: /attack | Target: 20.204.176.246 | Port: 25359 | Time: 180
+Username: @ZEUX_OP8
+Target: 20.204.176.246
+Port: 25359
+Time: 180
+
+UserID: 6512569115 | Time: 2024-07-05 04:39:40.066684 | Command: /attack | Target: 4.213.64.123 | Port: 29483 | Time: 180
+Username: @Jaatxcheat_xd
+Target: 4.213.64.123
+Port: 29483
+Time: 180
+
+UserID: 5631558065 | Time: 2024-07-05 04:41:18.328419 | Command: /attack | Target: 4.213.64.211 | Port: 20675 | Time: 180
+UserID: 6512569115 | Time: 2024-07-05 08:08:00.141797 | Command: /attack | Target: 4.213.64.206 | Port: 15584 | Time: 180
+Username: @Jaatxcheat_xd
+Target: 4.213.64.206
+Port: 15584
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 09:15:35.116621 | Command: /attack | Target: 20.198.104.119 | Port: 10320 | Time: 180
+Username: @Pro_lege9d
+Target: 20.198.104.119
+Port: 10320
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-05 09:37:32.510172 | Command: /attack | Target: 20.198.107.154 | Port: 18222 | Time: 240
+Username: @FFCxGAMA
+Target: 20.198.107.154
+Port: 18222
+Time: 240
+
+UserID: 1317362624 | Time: 2024-07-05 09:43:44.298201 | Command: /attack | Target: 20.235.147.239 | Port: 18897 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.147.239
+Port: 18897
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 09:44:59.351729 | Command: /attack | Target: 20.235.147.239 | Port: 18897 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.147.239
+Port: 18897
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 09:47:01.221595 | Command: /attack | Target: 20.235.147.239 | Port: 18897 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.147.239
+Port: 18897
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-05 10:01:41.390127 | Command: /attack | Target: 20.204.148.45 | Port: 18005 | Time: 180
+Username: @FFCxGAMA
+Target: 20.204.148.45
+Port: 18005
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-05 10:08:01.952664 | Command: /attack | Target: 20.204.88.100 | Port: 25341 | Time: 180
+Username: @FFCxGAMA
+Target: 20.204.88.100
+Port: 25341
+Time: 180
+
+UserID: 5440248350 | Time: 2024-07-05 10:12:37.161982 | Command: /attack | Target: 20.204.88.100 | Port: 25341 | Time: 180
+Username: @FFCxGAMA
+Target: 20.204.88.100
+Port: 25341
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 10:46:04.768812 | Command: /attack | Target: 4.213.66.125 | Port: 11311 | Time: 180
+Username: @Pro_lege9d
+Target: 4.213.66.125
+Port: 11311
+Time: 180
+
+UserID: 879527917 | Time: 2024-07-05 11:22:35.647884 | Command: /attack | Target: 20.204.17.27 | Port: 19028 | Time: 180
+Username: @RISHUNAWAB
+Target: 20.204.17.27
+Port: 19028
+Time: 180
+
+UserID: 6529290688 | Time: 2024-07-05 11:44:38.011219 | Command: /attack | Target: 20.235.94.233 | Port: 16606 | Time: 240
+Username: UserID: 6529290688
+Target: 20.235.94.233
+Port: 16606
+Time: 240
+
+UserID: 6529290688 | Time: 2024-07-05 11:52:03.733462 | Command: /attack | Target: 4.213.68.228 | Port: 24921 | Time: 240
+Username: UserID: 6529290688
+Target: 4.213.68.228
+Port: 24921
+Time: 240
+
+UserID: 6529290688 | Time: 2024-07-05 12:01:50.128111 | Command: /attack | Target: 20.235.48.240 | Port: 20219 | Time: 300
+Username: UserID: 6529290688
+Target: 20.235.48.240
+Port: 20219
+Time: 300
+
+UserID: 1317362624 | Time: 2024-07-05 14:49:04.696391 | Command: /attack | Target: 20.204.16.14 | Port: 17123 | Time: 180
+Username: @Pro_lege9d
+Target: 20.204.16.14
+Port: 17123
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 15:09:35.484128 | Command: /attack | Target: 20.198.72.244 | Port: 27211 | Time: 180
+Username: @Pro_lege9d
+Target: 20.198.72.244
+Port: 27211
+Time: 180
+
+UserID: 6529290688 | Time: 2024-07-05 15:10:31.865589 | Command: /attack | Target: 20.198.109.131 | Port: 25773 | Time: 180
+Username: UserID: 6529290688
+Target: 20.198.109.131
+Port: 25773
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 15:22:23.341631 | Command: /attack | Target: 20.235.149.170 | Port: 13230 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.149.170
+Port: 13230
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 15:23:19.070864 | Command: /attack | Target: 20.235.149.170 | Port: 23520 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.149.170
+Port: 23520
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 15:35:46.495136 | Command: /attack | Target: 52.140.3.93 | Port: 21203 | Time: 180
+Username: @Pro_lege9d
+Target: 52.140.3.93
+Port: 21203
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 15:43:41.014763 | Command: /attack | Target: 20.235.17.222 | Port: 16205 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.17.222
+Port: 16205
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-05 15:44:50.821799 | Command: /attack | Target: 20.235.17.222 | Port: 16207 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.17.222
+Port: 16207
+Time: 180
+
+UserID: 6572028150 | Time: 2024-07-05 18:23:22.914425 | Command: /attack | Target: 52.140.7.125 | Port: 19676 | Time: 180
+Username: @ANKITKING696
+Target: 52.140.7.125
+Port: 19676
+Time: 180
+
+UserID: 1317362624 | Time: 2024-07-07 18:16:15.485042 | Command: /attack | Target: 20.204.10.249 | Port: 28166 | Time: 190
+Username: @Pro_lege9d
+Target: 20.204.10.249
+Port: 28166
+Time: 190
+
+UserID: 1317362624 | Time: 2024-07-07 18:33:24.834607 | Command: /attack | Target: 20.235.92.72 | Port: 25048 | Time: 180
+Username: @Pro_lege9d
+Target: 20.235.92.72
+Port: 25048
+Time: 180
+
